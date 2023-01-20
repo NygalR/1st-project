@@ -1,0 +1,53 @@
+<!-- <h1 align="center"> Nygal Russell </h1>
+<strong align ="center"> Software engineer </strong>
+<p>
+<img src="https://a.espncdn.com/combiner/i?img=/i/headshots/mens-college-basketball/players/full/4398354.png&w=350&h=254" alt="profile picture" align="center" width="150px"
+ </header>
+
+
+ <section>
+<h2> 
+    Summary
+</h2>
+    <p1> I am a very focused detail oriented software developer planning to secure a very high leveljob
+</p1>
+ </section>
+
+<section>
+<h3> <b>Experience</b> </h3>
+<ul>
+    <li> <b> bda web developer</b> 2019-2022</li>
+    <li> <b> data analyst</b> 2019 -2022 </li>
+</ul>
+<h4>Skills</h4>
+<table border="5>
+  <th colspan="3"> Category 1</th>
+  <tr>
+      
+      <td>Skill 1</td>
+      <td>Skill 2</td>
+      <td> skill 3</td>
+  </tr>
+</table>
+</section>
+
+</body> */
+-->
+
+header class="grid-container">.. </header>
+        <header class="header"> Nygal Russell</header>
+        <asside class="aside"> ...</asside>
+        <main class="main">
+        <div class="overview-content">
+            <div class "overview-card">Hi my name is nygal</div>
+            <div class "overview-card">...</div>
+            <div class "overview-card">...</div>
+        </div>
+
+        <div class="chart-content">
+            <div class="chart">...</div>
+            <div class="chart-overview">....</div>
+            <div class="chart-overview">....</div>
+        </div>
+    </main>
+    <footer class="footer">...</footer>
